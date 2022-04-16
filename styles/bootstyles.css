@@ -1,0 +1,56 @@
+body{
+    background-color: rgba(145,140,143,1);
+    resize:both;
+}
+
+.header {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 300px;
+    z-index: 2;
+    background-image: url(../images/greybg.jpg);
+    background-size: cover;
+    background-position: center;
+    font-size: 20px;
+    color: whitesmoke;
+}
+
+.common {
+    position: absolute;
+}
+
+.headcenter{
+    text-align: center;
+}
+
+.linkcolor{
+    color:wheat
+}
+
+.linkcolor:hover{
+    color: lightgray;
+}
+
+.tableft{
+    padding-left:100px;
+    padding-right:100px;
+    padding-top: 300px;
+}
+
+.labels {
+    font-weight:15px;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: none;
+}
+
+.footer {
+    bottom: 10px;
+    left:5px;
+    right: 5px;
+    height: 10px;
+    font-size: 15px;
+    color: #5e5c5c;
+    text-align: center;
+    position: fixed;
+}

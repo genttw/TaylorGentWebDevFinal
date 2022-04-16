@@ -1,0 +1,85 @@
+/* This will be applied to the about and index pages*/
+
+/*Website Heading*/
+.upperheader{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: wheat;
+    text-align: center;
+}
+
+.lowerheader{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100px;
+    color: rgba(140,162,165,1);
+    text-align: center;
+}
+
+/*Box Colors*/
+.customblue{
+    color: wheat;
+    background-color: rgba(140,162,165,1);
+    border-color: rgba(140,162,165,1);
+}
+
+.customgrey{
+    color: wheat;
+    background-color: rgba(145,140,143,.7);
+    border-color: rgba(145,140,143,.7);
+}
+
+/*Link Button*/
+.custombutton{
+    background-color: rgba(145,140,143,1);
+    border-color: rgba(145,140,143,1);
+}
+
+.custombutton:visited{
+    background-color: rgba(145,140,143,1);
+    border-color: rgba(145,140,143,1);
+}
+
+.custombutton:hover{
+    background-color: wheat;
+    border-color: rgba(145,140,143,1);
+}
+
+/*Box Fonts*/
+.upperfont{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/*Website Footer*/
+.customfooter{
+    color:wheat;
+    background-color: rgba(145,140,143,.7);
+    border-color: rgba(145,140,143,.7);
+}
+
+/*Resume Link Color*/
+.customlink{
+    color:lightgray
+}
+
+.customlink:hover{
+    color: wheat;
+}
+
+/*Photo Gallery*/
+.picture{
+    padding-left: 265px;
+    padding-bottom: 100px;
+}
+
+.picture2{
+    padding-left: 265px;
+    padding-bottom: 100px;
+}
+
+.picture3{
+    padding-left: 265px;
+    padding-bottom:100px;
+}
+
+.headcenter{
+    text-align: center;
+}
